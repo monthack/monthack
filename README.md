@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://api.daily.dev/devcards/f554049ddd7e4556ac0f62a01de2da7a.png?r=6kd
+
 <!--
 **My name is Montse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
